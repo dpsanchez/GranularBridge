@@ -3,8 +3,8 @@
 #23/10/2023 I need to modify the code so that it can run spherical particles too.  The variable PS=0 means spheres, if PS=1, that means polyhedra.
 
 import os,sys
-#sys.path.append('/Users/paul/LMGC90/lmgc90_user_2022/build')
-sys.path.append('/⁨Users⁩/paulsanchez⁩/⁨Research⁩/⁨3D⁩/⁨lmgc90_dev-dev/build')
+sys.path.append('/Users/paul/LMGC90/lmgc90_user_2022/build')
+#sys.path.append('/⁨Users⁩/paulsanchez⁩/⁨Research⁩/⁨3D⁩/⁨lmgc90_dev-dev/build')
 import numpy
 import math
 import random
