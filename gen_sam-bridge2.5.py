@@ -4,7 +4,6 @@
 
 import os,sys
 sys.path.append('/Users/paul/LMGC90/lmgc90_user_2022/build')
-#sys.path.append('/⁨Users⁩/paulsanchez⁩/⁨Research⁩/⁨3D⁩/⁨lmgc90_dev-dev/build')
 import numpy
 import math
 import random
